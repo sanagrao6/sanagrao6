@@ -13,5 +13,5 @@ I build end-to-end machine learning projects, from data cleaning and feature eng
 - **Income Prediction Capstone** — Built and compared a logistic regression model and a neural network to predict income level from U.S. Census data, focusing on model interpretability, class imbalance, and fairness.
 
 ## 📫 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
-- 📧 [your.email@gmail.com](mailto:your.email@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sanagrao)
+- 📧 [your.email@gmail.com](mailto:sanagrao.@gmail.com)
