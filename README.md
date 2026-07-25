@@ -14,4 +14,4 @@ I build end-to-end machine learning projects, from data cleaning and feature eng
 
 ## 📫 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/sanagrao)
-- 📧 [your.email@gmail.com](mailto:sanagrao.@gmail.com)
+- 📧 [sanagrao@gmail.com](sanagrao.@gmail.com)
