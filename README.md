@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Sana Girish Rao👋
 
-<!--
-**sanagrao6/sanagrao6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Aspiring Software Engineer with a foundation in Python, data analysis, and supervised learning.
 
-Here are some ideas to get you started:
+I build end-to-end machine learning projects, from data cleaning and feature engineering to model training, evaluation, and comparison. I'm especially interested in responsible and interpretable ML. My goal is to grow into a machine learning or data science role where I can build models that are both accurate and accountable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Tools
+- **Languages:** Python, SQL
+- **ML / Data:** scikit-learn, pandas, NumPy, TensorFlow/Keras, Matplotlib, Seaborn
+- **Concepts:** logistic regression, decision trees, KNN, neural networks, model selection, evaluation metrics
+
+## 📌 Featured Project
+- **Income Prediction Capstone** — Built and compared a logistic regression model and a neural network to predict income level from U.S. Census data, focusing on model interpretability, class imbalance, and fairness.
+
+## 📫 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+- 📧 [your.email@gmail.com](mailto:your.email@gmail.com)
